@@ -12,7 +12,7 @@ customer_id,first_name,last_name,gender,past_3_years_bike_related_purchases,dob,
 2019,Neda,Perkis,Female,48,1953-09-13,VP Marketing,Entertainment,High Net Worth,False,False,17.0
 1905,Corabelle,,Female,21,1953-09-17,Help Desk Technician,Manufacturing,Affluent Customer,False,False,15.0
 560,Dorree,Sanja,Female,1,1953-10-11,Social Worker,Health,Affluent Customer,False,False,8.0
-1,Laraine,Medendorp,F,93,1953-10-12,Executive Secretary,Health,Mass Customer,False,True,11.0
+1,Laraine,Medendorp,Female,93,1953-10-12,Executive Secretary,Health,Mass Customer,False,True,11.0
 1915,Dusty,Tesimon,Female,40,1953-10-12,Social Worker,Health,Mass Customer,False,True,12.0
 3103,Shaylah,Hatchell,Female,5,1953-10-21,Safety Technician II,Retail,Mass Customer,False,False,20.0
 2746,Carmelia,Egle of Germany,Female,97,1953-10-25,Actuary,Financial Services,High Net Worth,False,True,7.0
@@ -871,7 +871,7 @@ customer_id,first_name,last_name,gender,past_3_years_bike_related_purchases,dob,
 2478,Andreas,Lamke,Male,85,1966-07-07,Senior Cost Accountant,Financial Services,Affluent Customer,False,True,10.0
 2313,Christa,Pauley,Female,54,1966-07-10,Chemical Engineer,Manufacturing,Mass Customer,False,False,12.0
 1525,Philis,Whittam,Female,43,1966-07-15,Database Administrator III,Financial Services,High Net Worth,False,False,5.0
-54,Loralyn,Wonfor,Femal,2,1966-07-24,Sales Associate,Property,Mass Customer,False,True,18.0
+54,Loralyn,Wonfor,Female,2,1966-07-24,Sales Associate,Property,Mass Customer,False,True,18.0
 2324,Jerrold,Robben,Male,44,1966-08-05,Sales Associate,Manufacturing,Mass Customer,False,True,16.0
 1318,Barbe,Assender,Female,10,1966-08-17,Senior Developer,Financial Services,Mass Customer,False,True,4.0
 668,Ebony,Threadgall,Female,61,1966-08-26,Junior Executive,Health,Mass Customer,False,False,7.0
@@ -3035,7 +3035,7 @@ customer_id,first_name,last_name,gender,past_3_years_bike_related_purchases,dob,
 1715,Cobb,Schrinel,Male,41,1988-06-01,Web Developer III,Entertainment,Mass Customer,False,True,12.0
 1552,Cully,Mangeon,Male,80,1988-06-06,Research Associate,Entertainment,Mass Customer,False,True,8.0
 1055,Danell,Rose,Female,30,1988-06-08,Data Coordiator,Manufacturing,Mass Customer,False,False,12.0
-57,Abba,Masedon,M,87,1988-06-13,Chief Design Engineer,Manufacturing,Mass Customer,False,True,13.0
+57,Abba,Masedon,Male,87,1988-06-13,Chief Design Engineer,Manufacturing,Mass Customer,False,True,13.0
 52,Curran,Bentson,Male,57,1988-06-22,Assistant Manager,Financial Services,Mass Customer,False,True,13.0
 1868,Aloisia,Ivel,Female,11,1988-06-22,Assistant Manager,Retail,Mass Customer,False,False,10.0
 3377,Jamal,MacRury,Male,12,1988-06-23,Teacher,Manufacturing,Mass Customer,False,True,7.0
